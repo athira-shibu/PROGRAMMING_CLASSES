@@ -1,0 +1,15 @@
+Task 1:
+
+HTML is the standard markup language for Web pages.
+With HTML you can create your own website.
+HTML is easy to learn.
+
+- html pages created with a extension .html or .htm 
+- in VSCode shift + ! will help you to start the boiler plate.
+
+<h1>Heading 1</h1>   - heading
+<p>paragraph</p>  - paragraph
+
+Task 2:
+
+HTML stands for Hyper Text Markup language
